@@ -1,0 +1,6 @@
+C:\Users\Геннадий\source\repos\Длинная арифметика\Длинная арифметика\bin\Debug\Длинная арифметика.exe
+C:\Users\Геннадий\source\repos\Длинная арифметика\Длинная арифметика\bin\Debug\Длинная арифметика.pdb
+C:\Users\Геннадий\source\repos\Длинная арифметика\Длинная арифметика\obj\Debug\Длинная арифметика.csprojAssemblyReference.cache
+C:\Users\Геннадий\source\repos\Длинная арифметика\Длинная арифметика\obj\Debug\Длинная арифметика.csproj.CoreCompileInputs.cache
+C:\Users\Геннадий\source\repos\Длинная арифметика\Длинная арифметика\obj\Debug\Длинная арифметика.exe
+C:\Users\Геннадий\source\repos\Длинная арифметика\Длинная арифметика\obj\Debug\Длинная арифметика.pdb
